@@ -2,19 +2,8 @@
 
 # Linear Power Supply
 
-Group Members:
-
-
-| EDIRISINGHE E.A.D.D.D. |
-|    JANANDITH W.A.O     |
-|     ABEYSINGHE D.U     |
-|    HEWAGAMAGE K.L.N    |
-
-  
-
-
-**Abstract**   
-This project report outlines the comprehensive design and implementation
+ 
+This project outlines the comprehensive design and implementation
 of a 10V linear power supply featuring a maximum output current of 10A
 and integrated short circuit protection. The report covers the
 theoretical foundations of linear power supplies, emphasizing the
