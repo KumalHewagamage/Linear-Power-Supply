@@ -17,7 +17,13 @@ to provide a stable 10V output at 10A while effectively protecting
 against short circuits.The report concludes by discussing potential
 enhancements for future development.
 
+<figure>
+<img src="PSU Front.png" id="fig:figure1" alt="Front" /><figcaption aria-hidden="true">Circuit</figcaption>
+</figure>
 
+<figure>
+<img src="PSU Back.png" id="fig:figure2" alt="Back" /><figcaption aria-hidden="true">Scope</figcaption>
+</figure>
 
 # Introduction 
 
