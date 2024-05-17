@@ -18,11 +18,11 @@ against short circuits.The report concludes by discussing potential
 enhancements for future development.
 
 <figure>
-<img src="PSU Front.png" id="fig:figure1" alt="Front" /><figcaption aria-hidden="true">Circuit</figcaption>
+<img src="PSU Front.png" id="fig:figure1" alt="Front" />
 </figure>
 
 <figure>
-<img src="PSU Back.png" id="fig:figure2" alt="Back" /><figcaption aria-hidden="true">Scope</figcaption>
+<img src="PSU Back.png" id="fig:figure2" alt="Back" />
 </figure>
 
 # Introduction 
