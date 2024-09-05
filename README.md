@@ -246,7 +246,12 @@ cooling system. It will control the speed of cooling fan according to
 the system temperature. Also a LCD display can be mounted in the front
 provide information such as current and voltage to user.
 
+# Contribution
 
+* [Kumal Hewagamage](https://github.com/KumalHewagamage)
+* [DulminEdirisinghe](https://github.com/DulminEdirisinghe)
+* [Odil janandith](https://github.com/EvilOdil/EvilOdil)
+* [Udula Abeysinghe](https://github.com/udula27)
 
 
 # Appendix
